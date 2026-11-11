@@ -1,5 +1,5 @@
 ## Охаёмалейкум👋
 
 <p align="center">
-  <img src="assets/kot3.jpg" alt="kot" width="100%">
+  <img src="assets/koteyka.jpg" alt="kot" width="100%">
 </p>
